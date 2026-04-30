@@ -1,0 +1,254 @@
+name: Tournament Matches
+id: 34
+distribution_url: https://rocketleague.tracker.network/rocket-league/distribution?playlist=34
+distribution:
+  - Rank Title: Supersonic Legend
+    Players Tracked: 864
+    Percentile Size: 0.03
+    Div I Min: 1862
+    Div I Max: 2003
+  - Rank Title: Grand Champion
+    Tiers:
+      - Tier: III
+        Players Tracked: 5633
+        Percentile Size: 0.18
+        Div I Min: 1701
+        Div I Max: 1735
+        Div II Min: 1744
+        Div II Max: 1784
+        Div III Min: 1788
+        Div III Max: 1816
+        Div IV Min: 1832
+        Div IV Max: 1866
+      - Tier: II
+        Players Tracked: 23873
+        Percentile Size: 0.74
+        Div I Min: 1561
+        Div I Max: 1598
+        Div II Min: 1600
+        Div II Max: 1637
+        Div III Min: 1638
+        Div III Max: 1661
+        Div IV Min: 1677
+        Div IV Max: 1699
+      - Tier: I
+        Players Tracked: 54546
+        Percentile Size: 1.70
+        Div I Min: 1421
+        Div I Max: 1458
+        Div II Min: 1459
+        Div II Max: 1487
+        Div III Min: 1498
+        Div III Max: 1527
+        Div IV Min: 1537
+        Div IV Max: 1559
+  - Rank Title: Champion
+    Tiers:
+      - Tier: III
+        Players Tracked: 85947
+        Percentile Size: 2.68
+        Div I Min: 1301
+        Div I Max: 1328
+        Div II Min: 1335
+        Div II Max: 1366
+        Div III Min: 1374
+        Div III Max: 1400
+        Div IV Min: 1402
+        Div IV Max: 1420
+      - Tier: II
+        Players Tracked: 143531
+        Percentile Size: 4.47
+        Div I Min: 1181
+        Div I Max: 1213
+        Div II Min: 1215
+        Div II Max: 1245
+        Div III Min: 1254
+        Div III Max: 1280
+        Div IV Min: 1282
+        Div IV Max: 1300
+      - Tier: I
+        Players Tracked: 275557
+        Percentile Size: 8.59
+        Div I Min: 1061
+        Div I Max: 1088
+        Div II Min: 1095
+        Div II Max: 1127
+        Div III Min: 1128
+        Div III Max: 1160
+        Div IV Min: 1162
+        Div IV Max: 1179
+  - Rank Title: Diamond
+    Tiers:
+      - Tier: III
+        Players Tracked: 259273
+        Percentile Size: 8.08
+        Div I Min: 981
+        Div I Max: 1003
+        Div II Min: 1004
+        Div II Max: 1027
+        Div III Min: 1028
+        Div III Max: 1050
+        Div IV Min: 1052
+        Div IV Max: 1060
+      - Tier: II
+        Players Tracked: 310694
+        Percentile Size: 9.68
+        Div I Min: 902
+        Div I Max: 923
+        Div II Min: 925
+        Div II Max: 947
+        Div III Min: 948
+        Div III Max: 970
+        Div IV Min: 972
+        Div IV Max: 980
+      - Tier: I
+        Players Tracked: 367905
+        Percentile Size: 11.47
+        Div I Min: 825
+        Div I Max: 843
+        Div II Min: 844
+        Div II Max: 867
+        Div III Min: 868
+        Div III Max: 890
+        Div IV Min: 892
+        Div IV Max: 900
+  - Rank Title: Platinum
+    Tiers:
+      - Tier: III
+        Players Tracked: 291889
+        Percentile Size: 9.10
+        Div I Min: 761
+        Div I Max: 776
+        Div II Min: 779
+        Div II Max: 797
+        Div III Min: 798
+        Div III Max: 816
+        Div IV Min: 817
+        Div IV Max: 820
+      - Tier: II
+        Players Tracked: 290169
+        Percentile Size: 9.04
+        Div I Min: 701
+        Div I Max: 716
+        Div II Min: 719
+        Div II Max: 737
+        Div III Min: 738
+        Div III Max: 756
+        Div IV Min: 757
+        Div IV Max: 760
+      - Tier: I
+        Players Tracked: 279850
+        Percentile Size: 8.72
+        Div I Min: 641
+        Div I Max: 656
+        Div II Min: 659
+        Div II Max: 677
+        Div III Min: 678
+        Div III Max: 696
+        Div IV Min: 697
+        Div IV Max: 700
+  - Rank Title: Gold
+    Tiers:
+      - Tier: III
+        Players Tracked: 242846
+        Percentile Size: 7.57
+        Div I Min: 581
+        Div I Max: 597
+        Div II Min: 599
+        Div II Max: 617
+        Div III Min: 618
+        Div III Max: 636
+        Div IV Min: 637
+        Div IV Max: 640
+      - Tier: II
+        Players Tracked: 199695
+        Percentile Size: 6.22
+        Div I Min: 521
+        Div I Max: 537
+        Div II Min: 539
+        Div II Max: 557
+        Div III Min: 558
+        Div III Max: 576
+        Div IV Min: 577
+        Div IV Max: 580
+      - Tier: I
+        Players Tracked: 148606
+        Percentile Size: 4.63
+        Div I Min: 461
+        Div I Max: 477
+        Div II Min: 479
+        Div II Max: 497
+        Div III Min: 498
+        Div III Max: 516
+        Div IV Min: 517
+        Div IV Max: 520
+  - Rank Title: Silver
+    Tiers:
+      - Tier: III
+        Players Tracked: 95928
+        Percentile Size: 2.99
+        Div I Min: 404
+        Div I Max: 417
+        Div II Min: 419
+        Div II Max: 437
+        Div III Min: 438
+        Div III Max: 456
+        Div IV Min: 457
+        Div IV Max: 460
+      - Tier: II
+        Players Tracked: 58047
+        Percentile Size: 1.81
+        Div I Min: 343
+        Div I Max: 357
+        Div II Min: 359
+        Div II Max: 377
+        Div III Min: 378
+        Div III Max: 396
+        Div IV Min: 397
+        Div IV Max: 400
+      - Tier: I
+        Players Tracked: 33690
+        Percentile Size: 1.05
+        Div I Min: 283
+        Div I Max: 297
+        Div II Min: 299
+        Div II Max: 317
+        Div III Min: 318
+        Div III Max: 336
+        Div IV Min: 337
+        Div IV Max: 340
+  - Rank Title: Bronze
+    Tiers:
+      - Tier: III
+        Players Tracked: 19084
+        Percentile Size: 0.59
+        Div I Min: 221
+        Div I Max: 237
+        Div II Min: 239
+        Div II Max: 257
+        Div III Min: 258
+        Div III Max: 276
+        Div IV Min: 277
+        Div IV Max: 280
+      - Tier: II
+        Players Tracked: 10495
+        Percentile Size: 0.33
+        Div I Min: 162
+        Div I Max: 177
+        Div II Min: 180
+        Div II Max: 196
+        Div III Min: 198
+        Div III Max: 216
+        Div IV Min: 217
+        Div IV Max: 220
+      - Tier: I
+        Players Tracked: 10369
+        Percentile Size: 0.32
+        Div I Min: 30
+        Div I Max: 118
+        Div II Min: 119
+        Div II Max: 135
+        Div III Min: 138
+        Div III Max: 156
+        Div IV Min: 157
+        Div IV Max: 160

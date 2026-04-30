@@ -1,0 +1,36 @@
+﻿accounts:
+  - steamId: 76561198080314981
+    playlist_mmr_url: https://rocketleague.tracker.network/rocket-league/profile/steam/76561198080314981/mmr?playlist={.playlists[].playlist}
+  - epicProfile: NoNoNo%20GreatPass
+    playlist_mmr_url: https://rocketleague.tracker.network/rocket-league/profile/epic/NoNoNo%20GreatPass/mmr?playlist={.playlists[].playlist}
+playlists:
+  - name: Ranked Duel 1v1
+    playlist: 10
+    distribution_url: https://rocketleague.tracker.network/rocket-league/distribution?playlist=10
+  - name: Ranked Doubles 2v2
+    playlist: 11
+    distribution_url: https://rocketleague.tracker.network/rocket-league/distribution?playlist=11
+  - name: Ranked Standard 3v3
+    playlist: 13
+    distribution_url: https://rocketleague.tracker.network/rocket-league/distribution?playlist=13
+  - name: Hoops
+    playlist: 27
+    distribution_url: https://rocketleague.tracker.network/rocket-league/distribution?playlist=27
+  - name: Rumble
+    playlist: 28
+    distribution_url: https://rocketleague.tracker.network/rocket-league/distribution?playlist=28
+  - name: Dropshot
+    playlist: 29
+    distribution_url: https://rocketleague.tracker.network/rocket-league/distribution?playlist=29
+  - name: Snow Day
+    playlist: 30
+    distribution_url: https://rocketleague.tracker.network/rocket-league/distribution?playlist=30
+  - name: Tournament Matches
+    playlist: 34
+    distribution_url: https://rocketleague.tracker.network/rocket-league/distribution?playlist=34
+  - name: Ranked 4v4 Quads
+    playlist: 61
+    distribution_url: https://rocketleague.tracker.network/rocket-league/distribution?playlist=61
+  - name: Heatseeker
+    playlist: 63
+    distribution_url: https://rocketleague.tracker.network/rocket-league/distribution?playlist=63

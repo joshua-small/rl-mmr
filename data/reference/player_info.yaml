@@ -1,0 +1,264 @@
+﻿- platform: Epic
+  account_name: NoNoNo%20GreatPass
+  profile_url: https://rocketleague.tracker.network/rocket-league/profile/Epic/NoNoNo%20GreatPass
+  peak:
+    Peak Rating:
+      rank: Champion I
+      mode: Ranked Standard 3v3
+      mmr: 1075
+      season: 36
+    Playlists:
+      - name: Ranked Duel 1v1
+        current:
+          rank: Platinum I
+          mmr: 674
+          season: 36
+          number: 2067604
+          top: 35.0
+        best:
+          rank: Platinum II
+          mmr: 680
+          season: 35
+      - name: Ranked Doubles 2v2
+        current:
+          rank: Diamond III
+          mmr: 987
+          season: 36
+          number: 1793894
+          top: 28.0
+        best:
+          rank: Diamond III
+          mmr: 1065
+          season: 35
+      - name: Ranked Standard 3v3
+        current:
+          rank: Champion I
+          mmr: 1075
+          season: 36
+          number: 529464
+          top: 8.0
+        best:
+          rank: Champion I
+          mmr: 1075
+          season: 36
+  overview:
+    - Playlist: Casual
+      MMR: 1443
+      Top %: 6.0
+    - Playlist: Ranked Duel 1v1
+      Rank Title: Platinum
+      Rank Tier: I
+      Division: III
+      MMR: 674
+      Top %: 35.0
+      Div Up:
+      Div Down:
+      Peak Rating: 0
+      Matches: 0
+    - Playlist: Ranked Doubles 2v2
+      Rank Title: Diamond
+      Rank Tier: III
+      Division: I
+      MMR: 987
+      Top %: 28.0
+      Div Up: 16
+      Div Down: 8
+      Peak Rating: 1033
+      Matches: 50
+    - Playlist: Ranked Standard 3v3
+      Rank Title: Champion
+      Rank Tier: I
+      Division: I
+      MMR: 1075
+      Top %: 8.0
+      Div Up: 20
+      Div Down:
+      Peak Rating: 1075
+      Matches: 81
+    - Playlist: Dropshot
+      Rank Title: Platinum
+      Rank Tier: III
+      Division: IV
+      MMR: 749
+      Top %: 12.0
+      Div Up: 4
+      Div Down: 12
+      Peak Rating: 765
+      Matches: 122
+    - Playlist: Hoops
+      Rank Title: Platinum
+      Rank Tier: II
+      Division: IV
+      MMR: 722
+      Top %: 13.0
+      Div Up: 11
+      Div Down: 5
+      Peak Rating: 779
+      Matches: 40
+    - Playlist: Ranked 4v4 Quads
+      Rank Title: Diamond
+      Rank Tier: I
+      Division: II
+      MMR: 791
+      Top %: 17.0
+      Div Up:
+      Div Down:
+      Peak Rating:
+      Matches: 0
+    - Playlist: Snowday
+      Rank Title: Platinum
+      Rank Tier: I
+      Division: II
+      MMR: 636
+      Top %: 34.0
+      Div Up:
+      Div Down:
+      Peak Rating:
+      Matches: 0
+    - Playlist: Tournament Matches
+      Rank Title: Diamond
+      Rank Tier: III
+      Division: III
+      MMR: 1050
+      Top %: 20.0
+      Div Up: 2
+      Div Down: 22
+      Peak Rating: 1050
+      Matches: 2
+- platform: Steam
+  account_id: 76561198080314981
+  profile_url: https://rocketleague.tracker.network/rocket-league/profile/steam/76561198080314981
+  peak:
+    Peak Rating:
+      rank: Champion I
+      mode: Ranked Doubles 2v2
+      mmr: 1217
+      season: 30
+    Playlists:
+      - name: Ranked Duel 1v1
+        current:
+          rank: Platinum I
+          mmr: 694
+          season: 30
+          number: 1737664
+          top: 29.0
+        best:
+          rank: Platinum II
+          mmr: 770
+          season: 31
+      - name: Ranked Doubles 2v2
+        current:
+          rank: Champion I
+          mmr: 1113
+          season: 36
+          number: 1020818
+          top: 16.0
+        best:
+          rank: Champion I
+          mmr: 1217
+          season: 30
+      - name: Ranked Standard 3v3
+        current:
+          rank: Diamond III
+          mmr: 1058
+          season: 36
+          number: 522766
+          top: 9.0
+        best:
+          rank: Champion I
+          mmr: 1134
+          season: 35
+  overview:
+    - Playlist: Casual
+      MMR: 1296
+      Top %: 15.0
+    - Playlist: Ranked Duel 1v1
+      Rank Title: Platinum
+      Rank Tier: I
+      Division: IV
+      MMR: 694
+      Top %: 29.0
+      Div Up: 1
+      Div Down: 17
+      Peak Rating:
+      Matches: 0
+    - Playlist: Ranked Doubles 2v2
+      Rank Title: Champion
+      Rank Tier: I
+      Division: II
+      MMR: 1113
+      Top %: 16.0
+      Div Up: 15
+      Div Down: 18
+      Peak Rating: 1121
+      Matches: 63
+    - Playlist: Ranked Standard 3v3
+      Rank Title: Diamond
+      Rank Tier: III
+      Division: IV
+      MMR: 1058
+      Top %: 9.0
+      Div Up: 2
+      Div Down: 6
+      Peak Rating: 1072
+      Matches: 49
+    - Playlist: Dropshot
+      Rank Title: Diamond
+      Rank Tier: III
+      Division: I
+      MMR: 854
+      Top %: 3.7
+      Div Up:
+      Div Down: 12
+      Peak Rating: 854
+      Matches: 47
+    - Playlist: Heatseeker
+      Rank Title: Platinum
+      Rank Tier: I
+      Division: III
+      MMR: 648
+      Top %: 30.0
+      Div Up:
+      Div Down:
+      Peak Rating:
+      Matches: 0
+    - Playlist: Hoops
+      Rank Title: Diamond
+      Rank Tier: II
+      Division: II
+      MMR: 843
+      Top %: 3.3
+      Div Up: 5
+      Div Down: 8
+      Peak Rating: 866
+      Matches: 24
+    - Playlist: Ranked 4v4 Quads
+      Rank Title: Diamond
+      Rank Tier: II
+      Division: III
+      MMR: 848
+      Top %: 11.0
+      Div Up: 12
+      Div Down:
+      Peak Rating:
+      Matches: 0
+    - Playlist: Rumble
+      Rank Title: Platinum
+      Rank Tier: III
+      Division: II
+      MMR: 771
+      Top %: 16.0
+      Div Up: 7
+      Div Down: 12
+      Peak Rating:
+      Matches: 0
+    - Playlist: Snowday
+      Rank Title: Platinum
+      Rank Tier: II
+      Division: III
+      MMR: 699
+      Top %: 16.0
+      Div Up: 18
+      Div Down: 1
+      Peak Rating:
+      Matches: 0

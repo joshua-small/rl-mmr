@@ -1,0 +1,40 @@
+# Python caches and build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+*.code-workspace
+.codex
+
+# Generated project outputs
+data/generated/*
+!data/generated/.gitkeep
+
+# Raw Tracker captures are source evidence for this project. Keep dated HTML
+# snapshots under data/raw/ when they are safe to commit.
