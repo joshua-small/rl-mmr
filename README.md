@@ -135,17 +135,40 @@ Each distribution file has:
 - `distribution`
 
 Distribution entries are grouped by rank title. Most ranks contain `Tiers`;
-`Supersonic Legend` is a single top-level rank without tiers. Tier rows include:
+`Supersonic Legend` is a single top-level rank without tiers. When Tracker
+shows values for it, those values are stored directly as `min` and `max`.
+
+Tier rows can include:
 
 - `Players Tracked`
 - `Percentile Size`
-- `Div I Min` / `Div I Max`
-- `Div II Min` / `Div II Max`
-- `Div III Min` / `Div III Max`
-- `Div IV Min` / `Div IV Max`
+- `Divisions`, a list of division objects with `Division`, `min`, and `max`
 
-Preserve Tracker's gaps between MMR ranges. Those gaps are not typos; they are
-how the source page represented division thresholds.
+Example:
+
+```yaml
+distribution:
+  - Rank Title: Supersonic Legend
+    Players Tracked: 258
+    Percentile Size: 0.00
+    min: 1355
+    max: 1612
+  - Rank Title: Grand Champion
+    Tiers:
+      - Tier: III
+        Players Tracked: 496
+        Percentile Size: 0.01
+        Divisions:
+          - Division: I
+            min: 1282
+            max: 1298
+          - Division: II
+            min: 1300
+            max: 1314
+```
+
+Preserve Tracker's gaps between MMR ranges and missing divisions. Those gaps
+are not typos; they are how the source page represented division thresholds.
 
 ## Scripts
 
